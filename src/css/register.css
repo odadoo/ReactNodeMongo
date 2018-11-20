@@ -1,0 +1,20 @@
+.forms-tabs{
+    width: 40%;
+    margin: 2rem 20rem
+    /* text-align: center; */
+}
+
+.dropdown-btn {
+    width: 100%;
+}
+
+.sub {
+    margin: 20px 0px;
+    background-color: rgb(0, 188, 212);
+    color: #ffffff;
+    width: 100%;
+}
+
+.textfield{
+    width: 100% !important;
+}
